@@ -109,9 +109,9 @@ body.page-template-page-fullsingle-me {
   height: 100vh;
   background-color: #141414;
   font-family: 'Suranna', sans-serif;
-  font-weight: 500;
-  font-size: 120px;
-  line-height: 80px;
+  font-weight: bold;
+  font-size: 45pt;
+  line-height: 120px;
   letter-spacing: -0.5px;
   color: #999999;
   background-image: url("../../images/logo_mama_gross.jpg");
@@ -122,8 +122,8 @@ body.page-template-page-fullsingle-me {
     color: #999999; }
     @media (max-width: 800px) {
       body.page-template-page-fullsingle-me p {
-        font-size: 32px;
-        line-height: 40px; } }
+        font-size: 16pt;
+        line-height: 80px; } }
 
 .fs-me {
   padding: 10vh 10vw;
